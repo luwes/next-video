@@ -61,7 +61,7 @@
     "@mux/mux-player-react": "^1.11.4",
     "chokidar": "^3.5.3",
     "symlink-dir": "^5.1.1",
-    "undici": "^5.22.1",
+    "undici": "^5.26.2",
     "yargs": "^17.7.2"
   }
 }
