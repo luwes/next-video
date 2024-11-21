@@ -63,7 +63,7 @@
   },
   "dependencies": {
     "@inquirer/prompts": "^3.0.2",
-    "@mux/mux-node": "github:stainless-sdks/mux-node#8.0.0-beta.1",
+    "@mux/mux-node": "^9.0.1",
     "@mux/mux-player-react": "1.14.2",
     "@next/env": "^13.4.19",
     "chalk": "^4.1.2",
